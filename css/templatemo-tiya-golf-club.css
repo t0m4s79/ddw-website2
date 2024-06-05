@@ -791,6 +791,11 @@ strong {
 .member-block-info h4,
 .member-block-info p {
   margin-bottom: 0;
+} 
+
+.member-block-image-wrap * {
+  margin: 5px 0px;
+  padding: 5px
 }
 
 
